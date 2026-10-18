@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Python bytecode cache
+__pycache__/
+
+# Secrets / environment variables
+.env
+.env.*
+!.env.example

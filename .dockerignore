@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.git/
+.vscode/
+.claude/
+app.py
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+Dockerfile
+.dockerignore
